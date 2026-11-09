@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "240b44e53955d316",
+    "type": "split",
+    "children": [
+      {
+        "id": "dad33495495b94d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ec67cb46f1c5f2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projetos/LSTM_Autoencoder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LSTM_Autoencoder"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aeaaa7ac3f84b1ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb1c91589aee7091",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ffcb42d6176ace4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "4b230ca5ccba409c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "LSTM",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "639b906e68dbc1df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358.5
+  },
+  "right": {
+    "id": "53240fb645f1ccd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "85a9e4109bc93bbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af9515bc58e9c393",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "73a39a17cdc1cc96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "79b8e5c1ffb6f46d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "448a3ec02590f101",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "94d1a18bd47048a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "1ec67cb46f1c5f2c",
+  "lastOpenFiles": [
+    "Projetos/sedVcf8qV",
+    "Projetos/sedXDfmac",
+    "Hubs/Hub - Dados e DW.md",
+    "Projetos/api-powerbi.md",
+    "Projetos/LSTM_Autoencoder.md",
+    "Projetos/Hermes.md.tmp.30124.f6a2fa785d52",
+    "Projetos/Hermes.md.tmp.30124.fe0f71801a9f",
+    "Projetos/Hermes.md.tmp.30124.079b4df97f2b",
+    "Projetos/Hermes.md.tmp.30124.cf90eed53a05",
+    "Projetos/Hermes.md.tmp.30124.9e4a73d0c281",
+    "Projetos/Hermes.md.tmp.30124.4bcea6cea20d",
+    "Projetos/Hermes - arquivo.md",
+    "Projetos/Hermes - arquivo.md.tmp.30124.e56ae2b4e7af",
+    "Projetos/sedFsQNHT",
+    "Projetos/sed6pQeBs",
+    "Projetos/Apolo11.md",
+    "Projetos/leverpro.md",
+    "Sem título 2.canvas",
+    "Projetos/PowerBIClaudio.md",
+    "AWS/Glue/Jobs/GlueJob - Portal_Beneficios (us-east-1).md",
+    "Projetos/aws-finops.md",
+    "AWS/FinOps/AWS - FinOps 2026-11-04.md",
+    "Projetos/otrs.md",
+    "Projetos/otrs - arquivo.md",
+    "AWS/ALB/ALB - cootravale.md",
+    "AWS/EC2/EC2 - srv-prod-otrsapp.md",
+    "Projetos/Portal.md",
+    "Projetos/Apolo11 - arquivo.md",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
+    "OTRS/ACLs/ACL - 2 - Mostra CNPJ - CPF OldKMM.md",
+    "Projetos/SQL_KMM.md",
+    "Projetos/airflow-app.md",
+    "Projetos/airflow-app - arquivo.md",
+    "Projetos/airflow-prod-dags.md",
+    "Projetos/datalake-glue.md",
+    "Hubs/Hub - AWS Dados.md",
+    "Hubs/Hub - AWS.md",
+    "Cootravale.md",
+    "Sem título 3.canvas",
+    "Sem título 4.canvas"
+  ]
+}

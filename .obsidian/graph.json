@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "LSTM",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "aws",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "Projetos",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "Portal",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "PowerBI",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "Athena",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "otrs",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.05322926829268,
+  "lineSizeMultiplier": 1.14501463414634,
+  "collapse-forces": false,
+  "centerStrength": 0.637853658536585,
+  "repelStrength": 10.009756097561,
+  "linkStrength": 1,
+  "linkDistance": 315,
+  "scale": 1.0534979423868278,
+  "close": false
+}
